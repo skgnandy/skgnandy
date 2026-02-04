@@ -158,22 +158,31 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skgnandy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skgnandy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skgnandy&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
+### Primary Stats
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skgnandy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skgnandy&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skgnandy&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+### Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skgnandy&theme=tokyo-night&hide_border=true)](https://github.com/skgnandy)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skgnandy&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=skgnandy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
 
 ---
 
@@ -212,7 +221,6 @@
 ⭐️ From [skgnandy](https://github.com/skgnandy)
 
 </div>
-
 
 <!-- ## Hi there 👋
 
