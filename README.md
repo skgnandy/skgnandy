@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Kiran Nandy</h1>
-<h3 align="center">Backend Engineer | Node.js | AEM | Cloud | DevOps</h3>
+<h3 align="center">Backend Engineer | AEM | Cloud | DevOps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skgnandy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
